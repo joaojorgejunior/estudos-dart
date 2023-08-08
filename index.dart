@@ -57,5 +57,41 @@
 
 // Operadores Matemáticos //
 
+ 
+//  void main(){
+//   double num1 = 10;
+//   double num2 = 5;
+
+//   num1 +=  50; // concatenando ou seja somar Num1 + 50 //
+//   print(num1);
+
+//   double soma = num1 + num2;
+//   print(soma);
+
+//   double subtrair = num1 - num2;
+//   print(subtrair);
+
+//   double multiplicar = num1 * num2;
+//   print(multiplicar);
+
+//   double dividir = num1 / num2;
+//   print(dividir);
+//  }
 
 
+// Criando listas no Dart //
+// void main (){
+//   List bairros = ["Bom Jardim","Granja P.","true","5.5"];
+//   // print(bairros);
+
+//   List<String> cor = [" amarelo","azul","verde"];
+//   cor.add("Preto"); // adicionando novo elemento a lista
+//   cor.removeLast(); // Removendo o último da lista cor preto //
+//   // cor.removeAt(0); //Remvendo primeiro elemento da lista
+//   cor.insert(0,"Roxo"); //Adionando o elemento na primeira posição//
+  
+//   print(cor.length); // tamanho da lista//
+//   print(cor.contains("azul")); // Varificando se tem o elemento Azul na lista //
+
+//   print(cor);
+// }
